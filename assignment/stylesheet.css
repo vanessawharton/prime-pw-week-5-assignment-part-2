@@ -8,11 +8,14 @@ header{
 
 body{
     background-image: url("record.png");
+    background-repeat: repeat;
     font-family: Verdana, Georgia, Helvetica;
     text-align: center
+    margin: 0px;
 }    
 
 .divclass-main{
     background-color: lightgray;
     color: #a585aa;
+    padding: 1em;
 }
