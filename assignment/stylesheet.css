@@ -1,0 +1,23 @@
+header{
+    text-align: center;
+    border: 1px solid #dddddd;
+    background-color: rgb(223, 39, 39);
+    color: silver;
+    font-family: Verdana, Georgia, Helvetica;
+}
+
+body{
+    background-color: #a585aa;
+    color: #343539;
+    background-image: url("record.png");
+    font-family: Verdana, Georgia, Helvetica;
+    text-align: center
+}    
+
+.main{
+    background-color: lightgray;
+}
+
+p{
+    color: white;
+}
